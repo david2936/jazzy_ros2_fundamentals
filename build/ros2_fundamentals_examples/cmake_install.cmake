@@ -43,7 +43,10 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros2_fundamentals_examples" TYPE DIRECTORY FILES "/home/david/ros2_ws/src/ros2_fundamentals_examples/ros2_fundamentals_examples")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros2_fundamentals_examples" TYPE DIRECTORY FILES
+    "/home/david/ros2_ws/src/ros2_fundamentals_examples/ros2_fundamentals_examples"
+    "/home/david/ros2_ws/src/ros2_fundamentals_examples/scripts"
+    )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -75,7 +78,10 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/ros2_fundamentals_examples" TYPE PROGRAM FILES "/home/david/ros2_ws/src/ros2_fundamentals_examples/ros2_fundamentals_examples/py_minimal_publisher.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/ros2_fundamentals_examples" TYPE PROGRAM FILES
+    "/home/david/ros2_ws/src/ros2_fundamentals_examples/ros2_fundamentals_examples/py_minimal_publisher.py"
+    "/home/david/ros2_ws/src/ros2_fundamentals_examples/ros2_fundamentals_examples/py_minimal_subscriber.py"
+    )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)

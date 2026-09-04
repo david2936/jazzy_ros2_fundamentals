@@ -113,7 +113,7 @@
 			{
 				"command" : 9,
 				"file" : 0,
-				"line" : 76,
+				"line" : 77,
 				"parent" : 0
 			},
 			{
@@ -306,7 +306,8 @@
 			"destination" : "share/ros2_fundamentals_examples",
 			"paths" : 
 			[
-				"ros2_fundamentals_examples"
+				"ros2_fundamentals_examples",
+				"scripts"
 			],
 			"type" : "directory"
 		},
@@ -380,7 +381,8 @@
 			"destination" : "lib/ros2_fundamentals_examples",
 			"paths" : 
 			[
-				"ros2_fundamentals_examples/py_minimal_publisher.py"
+				"ros2_fundamentals_examples/py_minimal_publisher.py",
+				"ros2_fundamentals_examples/py_minimal_subscriber.py"
 			],
 			"type" : "file"
 		},
