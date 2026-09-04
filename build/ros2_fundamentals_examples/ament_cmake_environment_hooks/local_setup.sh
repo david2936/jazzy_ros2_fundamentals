@@ -153,6 +153,7 @@ fi
 # list all environment hooks of this package
 ament_append_value AMENT_ENVIRONMENT_HOOKS "$AMENT_CURRENT_PREFIX/share/ros2_fundamentals_examples/environment/ament_prefix_path.sh"
 ament_append_value AMENT_ENVIRONMENT_HOOKS "$AMENT_CURRENT_PREFIX/share/ros2_fundamentals_examples/environment/path.sh"
+ament_append_value AMENT_ENVIRONMENT_HOOKS "$AMENT_CURRENT_PREFIX/share/ros2_fundamentals_examples/environment/pythonpath.sh"
 
 # source all shell-specific environment hooks of this package
 # if not returning them

@@ -1,0 +1,47 @@
+[0.027s] Invoking command in '/home/david/ros2_ws/build/ros2_fundamentals_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/david/ros2_ws/build/ros2_fundamentals_examples -- -j8 -l8
+[0.154s] Built target ament_cmake_python_copy_ros2_fundamentals_examples
+[0.602s] running egg_info
+[0.644s] writing ros2_fundamentals_examples.egg-info/PKG-INFO
+[0.645s] writing dependency_links to ros2_fundamentals_examples.egg-info/dependency_links.txt
+[0.645s] writing top-level names to ros2_fundamentals_examples.egg-info/top_level.txt
+[0.774s] reading manifest file 'ros2_fundamentals_examples.egg-info/SOURCES.txt'
+[0.774s] writing manifest file 'ros2_fundamentals_examples.egg-info/SOURCES.txt'
+[0.837s] Built target ament_cmake_python_build_ros2_fundamentals_examples_egg
+[0.858s] Invoked command in '/home/david/ros2_ws/build/ros2_fundamentals_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/david/ros2_ws/build/ros2_fundamentals_examples -- -j8 -l8
+[0.880s] Invoking command in '/home/david/ros2_ws/build/ros2_fundamentals_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/david/ros2_ws/build/ros2_fundamentals_examples
+[0.894s] -- Install configuration: ""
+[0.894s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples
+[0.894s] -- Installing: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples/py_minimal_publisher.py
+[0.895s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples/__init__.py
+[0.895s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/include
+[0.895s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/include/ros2_fundamentals_examples
+[0.895s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/pythonpath.sh
+[0.896s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/pythonpath.dsv
+[0.896s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info
+[0.896s] -- Installing: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/SOURCES.txt
+[0.897s] -- Installing: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/dependency_links.txt
+[0.897s] -- Installing: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/top_level.txt
+[0.897s] -- Installing: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/PKG-INFO
+[0.897s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples
+[0.897s] -- Installing: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/py_minimal_publisher.py
+[0.897s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/__init__.py
+[0.961s] Listing '/home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples'...
+[0.962s] Compiling '/home/david/ros2_ws/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/py_minimal_publisher.py'...
+[0.972s] -- Installing: /home/david/ros2_ws/install/ros2_fundamentals_examples/lib/ros2_fundamentals_examples/py_minimal_publisher.py
+[0.972s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ament_index/resource_index/package_run_dependencies/ros2_fundamentals_examples
+[0.973s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ament_index/resource_index/parent_prefix_path/ros2_fundamentals_examples
+[0.974s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/ament_prefix_path.sh
+[0.974s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/ament_prefix_path.dsv
+[0.974s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/path.sh
+[0.975s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/path.dsv
+[0.975s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/local_setup.bash
+[0.975s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/local_setup.sh
+[0.975s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/local_setup.zsh
+[0.976s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/local_setup.dsv
+[0.977s] -- Installing: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/package.dsv
+[0.977s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ament_index/resource_index/packages/ros2_fundamentals_examples
+[0.978s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.978s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/cmake/ros2_fundamentals_examplesConfig.cmake
+[0.978s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/cmake/ros2_fundamentals_examplesConfig-version.cmake
+[0.978s] -- Up-to-date: /home/david/ros2_ws/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/package.xml
+[0.979s] Invoked command in '/home/david/ros2_ws/build/ros2_fundamentals_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/david/ros2_ws/build/ros2_fundamentals_examples

@@ -1,5 +1,7 @@
 /home/david/ros2_ws/build/ros2_fundamentals_examples/CMakeFiles/uninstall.dir
 /home/david/ros2_ws/build/ros2_fundamentals_examples/CMakeFiles/ros2_fundamentals_examples_uninstall.dir
+/home/david/ros2_ws/build/ros2_fundamentals_examples/CMakeFiles/ament_cmake_python_copy_ros2_fundamentals_examples.dir
+/home/david/ros2_ws/build/ros2_fundamentals_examples/CMakeFiles/ament_cmake_python_build_ros2_fundamentals_examples_egg.dir
 /home/david/ros2_ws/build/ros2_fundamentals_examples/CMakeFiles/test.dir
 /home/david/ros2_ws/build/ros2_fundamentals_examples/CMakeFiles/edit_cache.dir
 /home/david/ros2_ws/build/ros2_fundamentals_examples/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+[31mCMake Error at CMakeLists.txt:55 (install):
+  install PROGRAMS given unknown argument "/ros2_fundamentals_examples".
+
+[0m
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1
